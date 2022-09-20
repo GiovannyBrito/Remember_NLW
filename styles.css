@@ -1,0 +1,36 @@
+
+/*Essa parte é pra retirar os styles padrões que vem no navegador↓↓↓↓↓↓↓*/
+* {
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+header img{
+    border-radius: 50%;
+
+}
+
+
+
+body{
+    background-color: gray;
+    padding-top: 25px;    
+}
+
+main* {
+    border: 1px solid red;
+
+}
+
+ul{
+    list-style: none;
+}
+
+li img{
+    border-radius: 5%;
+
+}
+
+
+
